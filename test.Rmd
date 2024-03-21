@@ -11,4 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # test file
 
-Making a change.
+This is a new line of code that I am adding.
+
